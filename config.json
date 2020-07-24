@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/codepoint",
+    "prod_uri":"mysql://root:@localhost/codepoint",
+    "fb_url":"https://facebook.com/codepoint",
+    "tw_url":"https://twitter.com/codepoint",
+    "gh_url": "https://github.com/codepoint",
+    "blog_name": "Code Point",
+    "tag_line": "Heaven for programmers",
+    "gmail-user":"your g-mail id",
+    "gmail-password":"your g-mail password",
+    "about_text": "HI I created this blog about programming and programmers!!!",
+    "no_of_posts": 4,
+    "login_image":"login.svg",
+    "admin_user":"your username",
+    "admin_password": "your password",
+    "upload_location": "your location to the static folder"
+  }
+}
